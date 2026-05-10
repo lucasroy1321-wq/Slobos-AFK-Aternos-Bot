@@ -31,15 +31,15 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Hello",
+        "Subscribe to TheoMiller123",
+        "I like to play SKYSMP!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect-delay": 2,
+    "max-reconnect-delay": 120
   },
   "movement": {
     "enabled": true,
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1503102014094053437/AlcI6YslEkwH8fkJEqC-6ZFiAoqPszt_1Xsuk8CbDE7A2CjEbg8RiSPrWIfDm__XY28u",
     "events": {
       "connect": true,
       "disconnect": true,
